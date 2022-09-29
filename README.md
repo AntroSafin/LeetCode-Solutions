@@ -2,7 +2,7 @@
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-10%20%2F%202422-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-14%20%2F%202422-ff69b4.svg)&nbsp;
 [![SeeSolutionPhotos](https://img.shields.io/badge/SeeSolutionPhotos-Myblog-ff69f4.svg)](https://leetcode-solutions.ml/)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AntroSafin.LeetCode-Solutions)
 

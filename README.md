@@ -2,7 +2,7 @@
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-daily-green.svg)&nbsp;
-![Progress](https://img.shields.io/badge/progress-42%20%2F%202431-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-42%20%2F%203023-ff69b4.svg)&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AntroSafin.LeetCode-Solutions)
 
 * I try to solve daily some problems and put the solutions in this github repository.
